@@ -1,0 +1,32 @@
+﻿"Tabela 7112 - Pessoas de 15 anos ou mais, analfabetas, por cor ou raça e grupo de idade"
+"Variável - Pessoas de 15 anos ou mais de idade, analfabetas (Mil pessoas)"
+"";"Grupo de idade";"Ano x Cor ou raça"
+"";"Grupo de idade";"2016";;;"2017";;;"2018";;;"2019";;;"2022";;;"2023";;;"2024"
+"";"Grupo de idade";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda";"Total";"Branca";"Preta ou parda"
+"Brasil";"15 anos ou mais";"10690";"2779";"7844";"10495";"2676";"7748";"10265";"2525";"7648";"10054";"2350";"7613";"9560";"2521";"6939";"9328";"2394";"6828";"9131";"2297";"6720"
+"Brasil";"18 anos ou mais";"10621";"2761";"7793";"10436";"2659";"7708";"10207";"2505";"7611";"10005";"2339";"7576";"9515";"2505";"6910";"9278";"2374";"6797";"9099";"2285";"6700"
+"Brasil";"25 anos ou mais";"10387";"2697";"7625";"10209";"2598";"7542";"10000";"2455";"7455";"9785";"2281";"7415";"9344";"2445";"6799";"9132";"2326";"6701";"8965";"2245";"6607"
+"Brasil";"40 anos ou mais";"9035";"2400";"6583";"8965";"2334";"6572";"8871";"2193";"6597";"8733";"2062";"6591";"8501";"2251";"6158";"8384";"2130";"6160";"8266";"2073";"6089"
+"Brasil";"60 anos ou mais";"5290";"1592";"3668";"5193";"1498";"3665";"5222";"1447";"3725";"5230";"1373";"3812";"5171";"1533";"3584";"5160";"1458";"3648";"5148";"1407";"3672"
+"Fonte: IBGE - Pesquisa Nacional por Amostra de Domicílios Contínua Anual - 2º trimestre"
+
+"Notas"
+"A categoria Total para ""Cor ou raça"" inclui as pessoas que se declaram indígenas, amarelas ou sem declaração.
+A partir de 01 de agosto de 2022, as estimativas deste tema passaram a ser divulgadas com base no novo método de ponderação da pesquisa, conforme a Nota Técnica 03/2021. Consequentemente, a série histórica dos indicadores foi atualizada."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
